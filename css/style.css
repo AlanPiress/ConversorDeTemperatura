@@ -45,3 +45,29 @@ main.box .inputs input:focus{
     outline: none;
 }
 
+main.box .but button{
+    border: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0.4rem 2rem;
+    color: white;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: 0.3s;
+}
+
+#converte{
+    background-color: #00972d;
+}
+
+#reset{
+    background-color: rgb(230, 75, 28);
+}
+
+#converte:hover{
+    background-color: #0fc546;
+}
+
+#reset:hover{
+    background-color: rgb(255, 95, 46);
+}
