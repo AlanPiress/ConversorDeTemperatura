@@ -7,9 +7,7 @@ Sistema de Conversão de Temperaturas Fahrenheit para Celsius em JavaScript.
 * JavaScript
 
 ## Projeto final:
-
 <img src="img/PáginaFinal.png">
 
 ## Função Executada:
-
 <img src="img/FunçãoExecutada.png">
